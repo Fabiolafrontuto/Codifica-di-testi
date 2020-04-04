@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<testo>
+ il primo xml con validazione
+<!--aggiungo un figlio a testo di nome child-->
+   <child>
+   </child>
+<!--aggiungo un fratello a child di nome sibling-->
+   <sibling>
+   </sibling> 
+</testo>
