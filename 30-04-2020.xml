@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei lite.dtd">
+<TEI>
+  <teiHeader>
+    <fileDesc>
+
+      <titleStmt>
+        <title>Uno, Nessuno e Centomila</title>
+        <respStmt>
+          <resp>Conversione TEI P5 a cura di</resp>
+          <name>F.Frontuto</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <publisher> Università di Pisa </publisher>
+        <date>30-04-2020</date>
+      </publicationStmt>
+      
+      <sourceDesc><bibl>
+        <title>Uno, Nessuno e Centomila</title>
+        <author>Luigi Pirandello</author>
+        <publisher>Mondadoori</publisher>
+        <date>1992</date>
+      </bibl></sourceDesc>
+
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div n="ch1" type="chapter">
+        <pb n="1"/>
+        <head>Mia moglie e il mio naso</head>
+        <p>
+           <q>Che fai?</q>mia moglie mi domandò, 
+           vedendomi insolitamente indugiare davanti 
+           allo specchio.
+           <q>Niente,</q>le risposi,<q>mi guardo qua, dentro 
+           il naso, in questa narice. Premendo, avverto un 
+           certo dolorino.</q>
+           Mia moglie sorrise e disse:
+           <q>Credevo ti guardassi da che parte ti pende</q>
+           <emph>Mi voltai come un cane a cui qualcuno avesse 
+           pestato la coda:
+           <q>Mi pende? A me? Il naso?</q></emph>
+           E mia moglie, placidamente:
+           <q>Ma sì, caro. Guàrdatelo bene: ti pende verso destra.</q>
+        </p>
+
+        <p>
+           Avevo ventotto anni e sempre fin allora ritenuto il mio naso,
+           se non propro bello, almeno molto decente, come insieme tutte 
+           le altre parti della mia persona. Per cui m'era stato facile
+           ammettere e sostenere quel che di solito ammettono e sostengono
+           tutti coloro che non hanno avuto la sciagura di sortire un corpo 
+           deforme: che cioè sia da sciocchi invanire per le proprie fattezze.
+           La scoperta improvvisa e inattesa di quel difetto perciò mi stizzì
+           come un immeritato castigio.
+        </p>
+        <p>
+           Vide forse mia moglie molto più addentro di me in quella mia stizza 
+           e aggiunse subito che, se riposavo nella certezza d'essere in tutto 
+           senza mende, me ne levassi pure, perchè, come il naso mi pendeva 
+           verso destra, così
+        </p>
+        <p>
+           <q>Che altro?</q>
+           <emph>Eh,altro! altro! Le mie sopracciglia parevano sugli occhi due 
+           accenti circonflessi,^^, le mie orecchie erano attaccate male, 
+           una più sporgente dell'altra; e altri difetti </emph>
+        </p>
+        <p>
+           <q>Ancora!</q>
+           Eh sì, ancora: nelle mani, al dito mignolo; e nelle gambe (no,storte 
+           no!),la destra, un pochino più arquata dell'altra: verso il 
+           ginocchio, un pochino.
+        </p>
+        <p>
+           Dopo un attento esame dovetti riconoscere veri tutti questi difetti. 
+           E solo allora scambiando certo per dolore e avvinimento la
+           maraviglia che ne provai subito dopo la stizza, mia moglie per 
+           consolarmi m'esortò a non affliggermene poi tanto, chè anche 
+           connessi, titto sommato rimanevo un bell'uomo.
+        </p>
+        <p>
+           Sfido a non irritarsi, ricevendo come generosa concessione ciò 
+           che come diritto ci è stato prima negato. 
+           Schizzao un velocissomo grazie e, sicurodi non aver motivo 
+           nè d'addolorarmi nè d'avvilirmi, non diedi alcuna importanza a 
+           quei lievi difetti, ma una grandissima e straordinaria
+           al fatto che tant'anni ero vissuto senza mai cambiar naso, sempre 
+           con quello, e con quelle sopracciglia equelle orecchie, quelle 
+           mani e quelle gambe; e dovevo aspettare di prender moglie per aver 
+           conto che li avevo difettosi.
+        </p>
+        <p>
+           <q><emph>Uh che maraviglia! E non si sa, le mogli? Fatte apposta per 
+           scoprire i difetti del marito.</emph></q>
+           Ecco già, le mogli, non nego. Ma anch'io, se permettete, di quei 
+           tempi ero fatto per sprofondare, a ogni parola che mi fosse detta, 
+           o mosca che vedessi volare, in abissi di riflessioni e 
+           considerazioni che mi scavavano dentro e bucheravano giù per torto 
+           e su per traverso lo spirito, come una tana di talpa; senza che di 
+           puori ne paresse nulla.
+        </p>
+        <p>
+           <q>Si vede,</q>voi dite,<q>che avevate molto tempo da perdere.</q>
+           No, ecco. Per l'animo in cui mi trovavo. Ma del resto sì, anche 
+           per l'ozio, non nego. Ricco, due difati amici, Sebastiano 
+           Quantorzo e Stefano Firbo, badavano ai miei affari dopo la morte 
+           di mio padre; il quale, per quanto ci si fosse adoperato con le 
+           buone e con le cattive, non era riuscito a farmi concludere mai 
+           nulla; tranne di prender moglie, questi sì, giovanissimo; forse 
+           con la speranza che almeno avessi presto un figliuolo che non mi 
+           somigliasse punto; e, pover'uomo, neppur questo aveva potuto 
+           ottenere da me.
+        </p>
+        <p>
+           Non già, badiamo, ch'io opponessi volontà a prendere la via per 
+           cui mio padre m'incamminava. Tutte le prendevo. Ma camminarci, non 
+           ci camminavo. Mi fermavo a ogni passo; mi mettevo prima alla 
+           lotana, poi sempre più da vicino a girare attorno a ogni sassolino 
+           che incontravo, e mi maravigliavo assai che gli altri potessero
+           passarmi avanti senza fare alcun caso di quel sassolino che per 
+           me intanto aveva assunto le proporzioni d'una montagna 
+           insormontabile, anzi d'un mondo in cui avrei potuto senz'altro 
+           domiciliarmi.
+        </p>
+        <p>
+           Ero rimasto così, fermo ai primi passi di tante vie, con lo 
+           spirito pieno di mondi, o di sassolini; che fa lo stesso.
+           Ma non mi pareva affattp che quelli che m'erano passati avanti 
+           e avevano percorso tutta la via, ne sapessero in sostanza più 
+           di me. M'erano passati avanti, non si mette in dubbio, e tutti 
+           braveggiando come tanti cavalloni; ma poi, in fondo alla via,
+           avevano trovato un carro: il loro carro; vi erano stati 
+           attaccati con molta pazienza, e ora se lo tiravano dietro.
+           Non tiravo nessun carro, io; e non avevo perciò né briglie 
+           né paraocchi; vedevo certamente più di loro; ma andare, 
+           non sapeco sove andare.
+        </p>
+        <p>
+           Ora, ritornando alla scoperta do quei lievi difetti, sprofondai 
+           tutto,subito, nella riflessione che dunque<q>possibile?</q>non
+           conoscevo bene neppure il io stesso corpo, le cose mie che più
+           intimamente m'appartenevano: il naso, le orecchie, le mani, le 
+           gambe. E tornavo a guardarmele per rifarne l'esame.
+        </p>
+        <p>
+           Cominciò da questo il mio male. Quel male che doveva ridurmi in 
+           breve in condizioni di spirito e di corpo così misere e disperate 
+           che certo ne sarei morto o impazzito, ove in esso mrdesimo non 
+           avessi trovato (come dirò) il rimedio che doveva guarirmene.
+        </p>
+      </div>
+    </body>
+
+  </text>
+
+</TEI>
