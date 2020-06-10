@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all">
+
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+             <title>Vincenzo Bellini a Giuseppe Danza, in Parigi, 10 maggio 1835</title>
+             <author>Vincenzo Bellini</author>
+             <respStmt>
+                <resp>Conversione TEI P5 a cura di</resp>
+                <name ref="#SM">S.Maenza</name> 
+                <name ref="#FF">>F.Frontuto</name>
+             </respStmt>
+         </titleStmt>
+
+         <publicationStmt>
+             <publisher> Fondazione Bellini </publisher>
+             <date>14-05-2020</date>
+         </publicationStmt>
+      
+         <sourceDesc><bibl>
+             <title>Vincenzo Bellini a Giuseppe Danza</title>
+             <author>Vincenzo Bellini</author>
+             <date>1835</date>
+         </bibl></sourceDesc>
+      </fileDesc>  
+   </teiHeader> 
+   <text>
+      <body xml:lang="it">
+         <div type="opener">
+            <dateline>
+                <placeNane>Parigi</placeNane>
+                <date>10 Maggio</date>
+            </dateline>
+         </div>
+         <div type="letter-body"> 
+            <salute>
+               <hi>Mio Caro
+                   <persName>Danza</persName>
+               </hi>
+            </salute>
+            <p>Se <persName>Curioni</persName> vi domanderà</p>
+         </div>
+      </body>
+   </text>
+</TEI>
+
+
+
+
